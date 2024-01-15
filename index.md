@@ -9,3 +9,7 @@ word = 'Mononoke'
 for letter in word:
     print(letter)
 ```
+
+- [X] Completed list item
+- [ ] List item
+- [ ] Second list item
